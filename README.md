@@ -1,9 +1,10 @@
 # Projeto release login bootstrap
 
-[![Build Status](CURSO GIT)
+## CURSO GIT
 
-Projeto integra release dos códigos da versão 0.1.0 e versão 0.1.1 do curso Git da Code Educacion.
+Projeto integra as releases dos códigos da versão 0.1.0 e versão 0.1.1 do curso Git da Code Educacion, com forma de
+Avaliação.
 
-[![Build Status](O Projeto)
+## O Projeto
 
-Projeto é uma tela de login para sistema web feito com Framework Bootstrap framework front-end e com linguagem PHP.
+Projeto é uma tela de login para sistema web feito com a Framework Front-End Bootstrap e com as linguagens PHP e     HTML5.
